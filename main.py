@@ -6,8 +6,6 @@ Run a quick demo:    python main.py --demo
 Optional rich output: if the `rich` package is installed, output is colorized.
 Otherwise it falls back to plain text — no extra dependency required.
 """
-import streamlit as st
-import requests
 
 from __future__ import annotations
 
