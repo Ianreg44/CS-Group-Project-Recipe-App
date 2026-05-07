@@ -60,4 +60,3 @@ if "meals" in st.session_state:
         if details.get("strYoutube"):
             st.subheader("Video")
             st.write(details["strYoutube"])
-x=5000
